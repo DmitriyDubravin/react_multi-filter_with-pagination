@@ -1,0 +1,10 @@
+.log
+.idea/
+.htaccess
+robots.txt
+directory/
+sources/
+logs/
+bower_components/
+node_modules/
+README.md
